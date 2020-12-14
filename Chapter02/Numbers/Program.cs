@@ -57,7 +57,7 @@ namespace Numbers
 
       if (c + d == 0.3M)
       {
-        Console.WriteLine($"{c} + {d} EQUAls 0.3");
+        Console.WriteLine($"{c} + {d} EQUAlS 0.3");
       }
       else
       {
